@@ -2,7 +2,7 @@
 
 Inspired by the iconic *Silicon Valley* TV show, this app tells you whether an uploaded image is a **Hotdog** or **Not Hotdog**.  
 
-👉 **Live Demo:** [Try it on Hugging Face Spaces](https://huggingface.co/spaces/<your-username>/<space-name>)
+👉 **Live Demo:** https://huggingface.co/spaces/dhsqr/nothotdog
 
 ---
 
