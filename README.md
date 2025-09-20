@@ -25,7 +25,7 @@ Upload an image → the model predicts:
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/not-hotdog-.git
+git clone https://github.com/dhsqr/not-hotdog-.git
 cd not-hotdog-
 pip install -r requirements.txt
 python app.py
