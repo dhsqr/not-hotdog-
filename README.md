@@ -25,7 +25,7 @@ Deployed on [Hugging Face Spaces](https://huggingface.co).
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/not-hotdog-app.git
+git clone https://github.com/dhsqr/not-hotdog-app.git
 cd not-hotdog-app
 ```
 
