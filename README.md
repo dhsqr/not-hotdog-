@@ -8,8 +8,7 @@ Deployed on [Hugging Face Spaces](https://huggingface.co/spaces/your-space-link)
 ---
 
 ## Demo
-👉 Try it live here: [Not Hotdog App](https://huggingface.co/spaces/your-space-link)
-
+👉 Try it live here: [Not Hotdog App](https://huggingface.co/spaces/dhsqr/nothotdog)
 ---
 
 ## Features
