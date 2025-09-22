@@ -3,12 +3,11 @@
 A playful side project inspired by the show *Silicon Valley* — Jian Yang’s “Not Hotdog” app.  
 
 This app uses a pretrained **ResNet-18** model from PyTorch to classify images as **Hotdog 🌭** or **Not Hotdog ❌**.  
-Deployed on [Hugging Face Spaces](https://huggingface.co/spaces/your-space-link).
+Deployed on [Hugging Face Spaces](https://huggingface.co/spaces/dhsqr/nothotdog).
 
 ---
 
-## Demo
-👉 Try it live here: [Not Hotdog App](https://huggingface.co/spaces/dhsqr/nothotdog)
+
 ---
 
 ## Features
